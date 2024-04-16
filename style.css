@@ -1,11 +1,14 @@
-html {
-  height: 100%;
-  width: 100%;
+h2 {
+  color: #ffffff;
+  font-size: 2em;
+  text-align: center;
+  text-shadow: 0 0 10px #e1ff00;
 }
 
 li{
-  list-style: none;
-}
+  list-style: none;}
+
+.centerer{text-align: center;}
 body {
   background-color: #000000;
   color: #ffffff;
@@ -31,5 +34,5 @@ body{
 }
 
 li span {
-  color: #ff3d3d;
+  color: #ff0000;
 }
