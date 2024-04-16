@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+li{
+  list-style: none;
+}
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
+li:hover {
+  color: #00ff2a;
+}
+
+body{
+  background-color: #0a003d;
+}
+
+.thing {
+  border: 1px solid #000000;
+}
+
+.thing:hover {
+  border: 2px solid rgba(0, 255, 255, 0.5);
+}
+
+li span {
+  color: #ff3d3d;
+}
